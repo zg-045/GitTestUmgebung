@@ -15,5 +15,7 @@ public class Zebra {
 	public void machGeräusche() {
 		System.out.println("Macht Zebra Geräusche");
 	}
+	
+	// TEST
 
 }
