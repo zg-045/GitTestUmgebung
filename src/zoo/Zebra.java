@@ -17,5 +17,9 @@ public class Zebra {
 	}
 	
 	// TEST
+	
+	public void macheIrgendwas() {
+		System.out.println("Macht irgendwas");
+	}
 
 }
