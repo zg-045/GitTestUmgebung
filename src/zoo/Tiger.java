@@ -11,4 +11,8 @@ public class Tiger {
 		this.alter = alter;
 		
 	}
+	
+	public void machGeräusche() {
+		System.out.println("Macht Zebra Geräusche");
+	}
 }
