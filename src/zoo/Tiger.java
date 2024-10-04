@@ -14,5 +14,10 @@ public class Tiger {
 	
 	public void machGeräusche() {
 		System.out.println("Macht Zebra Geräusche");
+		
+	}
+	
+	public void macheIrgendwas() {
+		System.out.println("Macht irgendwas");
 	}
 }
