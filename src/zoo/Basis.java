@@ -2,7 +2,7 @@ package zoo;
 
 public class Basis {
 	
-	private int zahl = 2;
+	private int zahl = 5;
 
 
 }
